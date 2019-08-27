@@ -1,22 +1,10 @@
 ---
 layout: page
-title: About
+title: Sobre
 comments: true
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Hola, mi nombre es Alex Labrin y soy Profesor de Educación Fisica titulado de la Universidad Catolica del Maule.
+Les presento este nuevo proyecto, donde encontrarán capítulos de podcast, hablaremos sobre entrenamiento, salud, mitos, entre muchas otras cosas!. Además realizaremos entrevistas a profesionales con temas de interes actual y mucho más!
 
-**License & Download**
-
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
-
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
 
