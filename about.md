@@ -4,7 +4,7 @@ title: Sobre
 comments: true
 ---
 
-<center><img src="/assets/images/alex_sobre.jpg" class="rounded-circle" alt="Alex Labrin" width="304" height="236"></center>
+<center><img src="{{ site.baseurl }}/assets/images/alex_sobre.jpg" class="rounded-circle" alt="Alex Labrin" width="304" height="236"></center>
 
 
 
