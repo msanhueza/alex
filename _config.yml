@@ -1,15 +1,15 @@
 # Site
 name: "Entrenar con Ciencia"
 title: "Entrenar con Ciencia"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+description: "Entrenar con Ciencia"
+meta_description: "Entrenar con Ciencia"
 logo: 'assets/images/logo_ec.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/alex'
 email: 'alabrin@live.cl'
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: ''
+disqus: ''
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
